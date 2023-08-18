@@ -17,4 +17,3 @@ function toggleMode() {
     img.setAttribute("src", "./assets/Foto-AngelicaProfile.png")
   }
 }
-// oi amigos
